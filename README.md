@@ -1,4 +1,4 @@
-# Credi_Case_Study
+# Credit_Case_Study
 Problem Statement - I
  
 
